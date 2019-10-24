@@ -7,7 +7,7 @@ require "pry"
 
 def pretty_print_nds(nds)
     pp nds
-
+binding.pry
   # Change the code below to pretty print the nds with pp
 
 end
